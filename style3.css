@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.watch{
+    width: 100%;
+    height: 113px;
+    padding-left: 500px;
+}
+.box{
+    margin-left: 20px;
+    position: relative;
+    top: 10px;
+}
+.box1{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.box2{
+    margin-left: 23px;
+    margin-top: 42px;
+}
+.box3{
+    margin-left: 63px;
+    margin-top: -23px;
+}
+.box4{
+    margin-left: 23px;
+    margin-top: 12px;
+}
+.box5{
+    margin-left: 63px;
+    margin-top: -25px;
+}
+.box6{
+    margin-left: 23px;
+    margin-top: 12px;
+}
+.box7{
+    margin-left: 63px;
+    margin-top: -25px;
+}
+.box8{
+    margin-left: 23px;
+    margin-top: 12px;
+}
+.box9{
+    margin-left: 63px;
+    margin-top: -25px;
+}
+.box11{
+    margin-left: 23px;
+    margin-top: 12px;
+}
+.box12{
+    margin-left: 63px;
+    margin-top: -25px;
+}
+.box13{
+    margin-left: 23px;
+    margin-top: 24px;
+}
+.box14{
+    margin-left: 63px;
+    margin-top: -25px;
+}
+.box15{
+    margin-left: 23px;
+    margin-top: 24px;
+}
+.box16{
+    margin-left: 63px;
+    margin-top: -25px;
+}
+.box18{
+    font-size: 16px;
+    margin-top: 26px;
+    margin-left: 63px;
+}
+.box19{
+    font-size: 16px;
+    margin-top: 26px;
+    margin-left: 63px;
+}
+.box20{
+    font-size: 16px;
+    margin-top: 26px;
+    margin-left: 63px;
+}
+.block{
+    background: #EFF2F4;
+    height: 100px;
+    width: 350px;
+    position: relative;
+}
